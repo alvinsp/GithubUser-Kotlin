@@ -1,0 +1,24 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.GithubUsers" parent="Theme.Material3.Light">
+        <item name="colorPrimary">@color/black_light</item>
+        <item name="colorPrimaryVariant">#000</item>
+        <item name="colorOnPrimary">#fff</item>
+
+        <item name="colorSecondary">@color/green_light</item>
+        <item name="colorSecondaryVariant">@color/tosca_light</item>
+        <item name="colorOnSecondary">#fff</item>
+        <item name="textFillColor">@color/black_light</item>
+        <item name="android:textColorHint">#fff</item>
+        <item name="android:editTextColor">#fff</item>
+        <item name="android:statusBarColor" tools:targetApi="l">?attr/colorPrimary</item>
+        <item name="tabTextColor">@color/white</item>
+
+        <item name="android:fillColor">#000</item>
+        <item name="android:fontFamily">@font/poppins</item>
+    </style>
+
+    <style name="SplashScreen" parent="Base.Theme.GithubUsers">
+        <item name="android:src">@drawable/github_logo_dark</item>
+    </style>
+</resources>

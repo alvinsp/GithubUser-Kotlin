@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="grey">#ebe8eb</color>
+
+    <color name="black_light">#040D12</color>
+    <color name="green_light">#183D3D</color>
+    <color name="tosca_light">#5C8374</color>
+    <color name="tosca_200_light">#93B1A6</color>
+
+    <color name="white_dark">#FAF9F9</color>
+    <color name="tosca_dark">#ADD2C9</color>
+    <color name="green_dark">#5EA3A3</color>
+    <color name="green">#488B8F</color>
+</resources>
